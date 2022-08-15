@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itsmeabela
+- 👋 Hi, I’m Abel
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning c.s
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on any web dev
 - 📫 How to reach me abelrobel7@gmail.com
 
 <!---
